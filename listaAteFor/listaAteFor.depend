@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1624764607 source:c:\users\trabalho\documents\workspace\faculdade\verdadeirooufalso\listaatefor\questao01.c
+
+1624766404 source:c:\users\trabalho\documents\workspace\faculdade\verdadeirooufalso\listaatefor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1624765374 source:c:\users\trabalho\documents\workspace\faculdade\verdadeirooufalso\listaatefor\questao02.c
+
